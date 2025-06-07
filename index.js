@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { program } from 'commander';
 import { processInput } from './src/parser.js';
 import pkg from './pkg.cjs';

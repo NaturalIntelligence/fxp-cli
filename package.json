@@ -1,6 +1,6 @@
 {
   "name": "fxp-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A command-line tool for validating XML files and converting between XML and JSON using Fast XML Parser",
   "type": "module",
   "scripts": {
