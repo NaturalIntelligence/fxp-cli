@@ -1,0 +1,9 @@
+{
+  "root": {
+    "child": {
+      "@id": 2,
+      "#text": "other"
+    },
+    "style": "css"
+  }
+}

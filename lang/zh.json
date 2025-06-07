@@ -1,0 +1,17 @@
+{
+  "unknown_command": "未知命令: {0}",
+  "input_not_xml": "输入必须是XML (.xml): {0}",
+  "input_not_json": "输入必须是JSON (.json): {0}",
+  "output_not_json": "输出必须是JSON (.json): {0}",
+  "output_not_xml": "输出必须是XML (.xml): {0}",
+  "output_wildcard_required": "对于通配符输入模式，输出文件名必须包含 '*'",
+  "input_output_count_mismatch": "输出文件数量 ({0}) 必须与输入文件数量 ({1}) 匹配",
+  "no_files_matched": "没有文件匹配模式: {0}",
+  "failed_processing_file": "处理失败: {0} - {1}",
+  "invalid_xml": "无效XML: {0}",
+  "invalid_json": "无效JSON: {0}",
+  "file_read_error": "无法读取文件: {0}",
+  "config_load_error": "无法加载配置文件: {0}",
+  "lang_load_error": "无法加载语言文件: {0} - {1}",
+  "pkg_load_error": "无法加载package.json: {0}"
+}

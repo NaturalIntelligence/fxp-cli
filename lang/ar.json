@@ -1,0 +1,17 @@
+{
+  "unknown_command": "أمر غير معروف: {0}",
+  "input_not_xml": "يجب أن يكون الإدخال XML (.xml): {0}",
+  "input_not_json": "يجب أن يكون الإدخال JSON (.json): {0}",
+  "output_not_json": "يجب أن يكون الإخراج JSON (.json): {0}",
+  "output_not_xml": "يجب أن يكون الإخراج XML (.xml): {0}",
+  "output_wildcard_required": "يجب أن تحتوي أسماء ملفات الإخراج على '*' لأنماط الإدخال ذات الأحرف البدلية",
+  "input_output_count_mismatch": "عدد ملفات الإخراج ({0}) يجب أن يتطابق مع عدد ملفات الإدخال ({1})",
+  "no_files_matched": "لا توجد ملفات تتطابق مع النمط: {0}",
+  "failed_processing_file": "فشل في المعالجة: {0} - {1}",
+  "invalid_xml": "XML غير صالح: {0}",
+  "invalid_json": "JSON غير صالح: {0}",
+  "file_read_error": "غير قادر على قراءة الملف: {0}",
+  "config_load_error": "فشل في تحميل ملف الإعدادات: {0}",
+  "lang_load_error": "فشل في تحميل ملف اللغة لـ: {0} - {1}",
+  "pkg_load_error": "فشل في تحميل package.json: {0}"
+}

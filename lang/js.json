@@ -1,0 +1,17 @@
+{
+  "unknown_command": "不明なコマンド: {0}",
+  "input_not_xml": "入力はXML (.xml) でなければなりません: {0}",
+  "input_not_json": "入力はJSON (.json) でなければなりません: {0}",
+  "output_not_json": "出力はJSON (.json) でなければなりません: {0}",
+  "output_not_xml": "出力はXML (.xml) でなければなりません: {0}",
+  "output_wildcard_required": "ワイルドカード入力パターンには、出力ファイル名に '*' を含める必要があります",
+  "input_output_count_mismatch": "出力ファイルの数 ({0}) は入力ファイルの数 ({1}) と一致する必要があります",
+  "no_files_matched": "パターンに一致するファイルが見つかりませんでした: {0}",
+  "failed_processing_file": "処理に失敗しました: {0} - {1}",
+  "invalid_xml": "無効なXML: {0}",
+  "invalid_json": "無効なJSON: {0}",
+  "file_read_error": "ファイルの読み込みに失敗しました: {0}",
+  "config_load_error": "設定ファイルの読み込みに失敗しました: {0}",
+  "lang_load_error": "言語ファイルの読み込みに失敗しました: {0} - {1}",
+  "pkg_load_error": "package.jsonの読み込みに失敗しました: {0}"
+}

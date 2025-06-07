@@ -1,0 +1,17 @@
+{
+  "unknown_command": "Commande inconnue: {0}",
+  "input_not_xml": "L'entrée doit être XML (.xml): {0}",
+  "input_not_json": "L'entrée doit être JSON (.json): {0}",
+  "output_not_json": "La sortie doit être JSON (.json): {0}",
+  "output_not_xml": "La sortie doit être XML (.xml): {0}",
+  "output_wildcard_required": "Les noms de fichiers de sortie doivent contenir '*' pour les motifs d'entrée avec jokers",
+  "input_output_count_mismatch": "Le nombre de fichiers de sortie ({0}) doit correspondre aux fichiers d'entrée ({1})",
+  "no_files_matched": "Aucun fichier ne correspond au motif: {0}",
+  "failed_processing_file": "Échec du traitement: {0} - {1}",
+  "invalid_xml": "XML invalide: {0}",
+  "invalid_json": "JSON invalide: {0}",
+  "file_read_error": "Impossible de lire le fichier: {0}",
+  "config_load_error": "Échec du chargement du fichier de configuration: {0}",
+  "lang_load_error": "Échec du chargement du fichier de langue pour: {0} - {1}",
+  "pkg_load_error": "Échec du chargement de package.json: {0}"
+}

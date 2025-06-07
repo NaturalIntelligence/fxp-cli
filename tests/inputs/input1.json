@@ -1,0 +1,11 @@
+{
+  "root": {
+    "child": {
+      "@id": 1,
+      "#text": "text"
+    },
+    "script": "code",
+    "a": "1",
+    "b": "2"
+  }
+}

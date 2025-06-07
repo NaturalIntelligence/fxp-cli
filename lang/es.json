@@ -1,0 +1,17 @@
+{
+  "unknown_command": "Comando desconocido: {0}",
+  "input_not_xml": "La entrada debe ser XML (.xml): {0}",
+  "input_not_json": "La entrada debe ser JSON (.json): {0}",
+  "output_not_json": "La salida debe ser JSON (.json): {0}",
+  "output_not_xml": "La salida debe ser XML (.xml): {0}",
+  "output_wildcard_required": "Los nombres de archivo de salida deben contener '*' para patrones de entrada con comodines",
+  "input_output_count_mismatch": "El número de archivos de salida ({0}) debe coincidir con los archivos de entrada ({1})",
+  "no_files_matched": "No se encontraron archivos que coincidan con el patrón: {0}",
+  "failed_processing_file": "Error al procesar: {0} - {1}",
+  "invalid_xml": "XML inválido: {0}",
+  "invalid_json": "JSON inválido: {0}",
+  "file_read_error": "No se puede leer el archivo: {0}",
+  "config_load_error": "No se pudo cargar el archivo de configuración: {0}",
+  "lang_load_error": "No se pudo cargar el archivo de idioma para: {0} - {1}",
+  "pkg_load_error": "No se pudo cargar package.json: {0}"
+}

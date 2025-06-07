@@ -1,0 +1,6 @@
+<root>
+  <child id="1" bool="true">text</child>
+  <script>code</script>
+  <a>1</a>
+  <b>2</b>
+</root>

@@ -1,0 +1,17 @@
+{
+  "unknown_command": "Unknown command: {0}",
+  "input_not_xml": "Input must be XML (.xml): {0}",
+  "input_not_json": "Input must be JSON (.json): {0}",
+  "output_not_json": "Output must be JSON (.json): {0}",
+  "output_not_xml": "Output must be XML (.xml): {0}",
+  "output_wildcard_required": "Output filenames must contain '*' for wildcard input patterns",
+  "input_output_count_mismatch": "Number of output files ({0}) must match input files ({1})",
+  "no_files_matched": "No files matched pattern: {0}",
+  "failed_processing_file": "Failed processing: {0} - {1}",
+  "invalid_xml": "Invalid XML: {0}",
+  "invalid_json": "Invalid JSON: {0}",
+  "file_read_error": "Unable to read file: {0}",
+  "config_load_error": "Failed to load config file: {0}",
+  "lang_load_error": "Failed to load language file for: {0} - {1}",
+  "pkg_load_error": "Failed to load package.json: {0}"
+}

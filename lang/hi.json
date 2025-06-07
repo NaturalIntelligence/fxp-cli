@@ -1,0 +1,17 @@
+{
+  "unknown_command": "अज्ञात कमांड: {0}",
+  "input_not_xml": "इनपुट XML होना चाहिए (.xml): {0}",
+  "input_not_json": "इनपुट JSON होना चाहिए (.json): {0}",
+  "output_not_json": "आउटपुट JSON होना चाहिए (.json): {0}",
+  "output_not_xml": "आउटपुट XML होना चाहिए (.xml): {0}",
+  "output_wildcard_required": "वाइल्डकार्ड इनपुट पैटर्न के लिए आउटपुट फ़ाइलनाम में '*' होना चाहिए",
+  "input_output_count_mismatch": "आउटपुट फ़ाइलों की संख्या ({0}) इनपुट फ़ाइलों ({1}) से मेल खानी चाहिए",
+  "no_files_matched": "कोई फ़ाइल पैटर्न से मेल नहीं खाती: {0}",
+  "failed_processing_file": "प्रोसेसिंग में विफल: {0} - {1}",
+  "invalid_xml": "अमान्य XML: {0}",
+  "invalid_json": "अमान्य JSON: {0}",
+  "file_read_error": "फ़ाइल पढ़ने में असमर्थ: {0}",
+  "config_load_error": "कॉन्फ़िग फ़ाइल लोड करने में विफल: {0}",
+  "lang_load_error": "भाषा फ़ाइल लोड करने में विफल: {0} - {1}",
+  "pkg_load_error": "package.json लोड करने में विफल: {0}"
+}

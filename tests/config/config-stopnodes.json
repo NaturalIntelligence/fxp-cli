@@ -1,0 +1,4 @@
+{
+  "stopNodes": ["script", "style"],
+  "preserveOrder": true
+}

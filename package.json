@@ -1,0 +1,43 @@
+{
+  "name": "fxp-cli",
+  "version": "0.0.1",
+  "description": "A command-line tool for validating XML files and converting between XML and JSON using Fast XML Parser",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "fxp": "./index.js"
+  }
+  "keywords": [
+    "fast",
+    "xml",
+    "json",
+    "parser",
+    "xml2js",
+    "x2js",
+    "xml2json",
+    "js",
+    "cli",
+    "validator",
+    "validate",
+    "transformer",
+    "assert",
+    "js2xml",
+    "json2xml",
+    "html"
+  ],
+  "author": "Amit Gupta (https://solothought.com)",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^14.0.0",
+    "fast-xml-parser": "^5.2.3",
+    "globby": "^14.1.0"
+  },
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/NaturalIntelligence"
+    }
+  ]
+}

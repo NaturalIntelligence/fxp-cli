@@ -1,0 +1,4 @@
+{
+  "allowBooleanAttributes": true,
+  "unpairedTags": ["br", "img"]
+}
